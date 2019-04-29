@@ -3,7 +3,7 @@ Problem Statement
 a) Prescriptive Analytics is used to predict the future outcomes
 Answer- False
 b) Base R packages are installed automatically
-Answer- False
+Answer- True
 What is Recycling of elements in a vector?
 Answer- In R programming, recycling of elements is when we perform operations on two different vectors having different lengths. In it, the elements of the shorter length vector are used to complete the operation.
 Give an example of recycling of elements.
